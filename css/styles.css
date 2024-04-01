@@ -70,6 +70,7 @@ a {
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header-wrap {
   display: flex;
@@ -213,6 +214,7 @@ a {
 }
 .team-item {
   background-color: #fff;
+  border-radius: 0px 0px 4px 4px;
 }
 .team-info {
   padding: 32px 0;
